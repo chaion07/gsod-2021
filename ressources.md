@@ -2,9 +2,11 @@
 
 ## Resources on W.org
 
-Application announcement post
-
 [WordPress is applying to Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/15/wordpress-is-applying-to-season-of-docs-2021/)
+
+[Call for mentors for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-mentors-for-the-google-season-of-docs-2021/)
+
+[Call for projects ideas for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-projects-ideas-for-the-google-season-of-docs-2021/)
 
 ## Google Resources
 

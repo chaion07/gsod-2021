@@ -19,3 +19,5 @@
 [Organization administrator responsibilities | Season of Docs](https://developers.google.com/season-of-docs/docs/admin-responsibilities)
 
 [Project ideas](https://developers.google.com/season-of-docs/docs/project-ideas)
+
+[Technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)

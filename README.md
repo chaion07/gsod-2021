@@ -5,4 +5,5 @@ The purpose of this repository is to coordinate the various tasks related to the
 ## Table of contents
 
 [Resources](/resources.md)
+
 [Team](/team)

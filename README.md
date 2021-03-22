@@ -6,4 +6,4 @@ The purpose of this repository is to coordinate the various tasks related to the
 
 [Resources](/resources.md)
 
-[Team](/team)
+[Team](/people)

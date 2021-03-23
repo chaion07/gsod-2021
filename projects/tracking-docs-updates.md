@@ -7,15 +7,13 @@ WordPress is a free and open-source content management system (CMS) written in P
 WordPress is also a large and active community of contributors spread around the world, and organized by contribution team (including the documentation team).
 
 ### About the project
-
-WordPress does not have a unified tracking system for when a documentation needs updates. People do it on [WordPress Meta Trac](https://meta.trac.wordpress.org/) (which is really for code changes to WordPress.org), report them on the [project Slack](https://make.wordpress.org/chat/), and sometimes via Twitter. Currently, it is impossible for people to know if a documentation is going through updates or is simply outdated. Some projects use Trello for short term purposes. Some projects use GitHub.
-
-WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests. And we need to create a process to utilize this system properly.
-
 #### Your project’s problem
 
-_Tell us about the problem your project will help solve. Why is it important to your organization or project to solve this problem?_
+The WordPress documentation is huge and divided into multiple sections. There are user documentations, developer documentations of different projects (themes, plugins, block editor, APIs, etc.).
 
+All these documentations are subject to frequent changes as the projects to which they belong evolve. So we end up with requests for changes, requests for updates that are frequently reported on various channels: Slack, Meta Trac, GitHub, etc.
+
+The fact that we don't have a unified system for change requests and documentation updates makes collaboration difficult; and can be an obstacle for new contributors who want to start with documentation contribution. So, WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests. And we need to create a process to utilize this system properly.
 
 #### Your project’s scope
 

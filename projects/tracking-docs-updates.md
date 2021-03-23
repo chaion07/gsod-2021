@@ -13,7 +13,9 @@ The WordPress documentation is huge and divided into multiple sections. There ar
 
 All these documentations are subject to frequent changes as the projects to which they belong evolve. So we end up with requests for changes, requests for updates that are frequently reported on various channels: Slack, Meta Trac, GitHub, etc.
 
-The fact that we don't have a unified system for change requests and documentation updates makes collaboration difficult; and can be an obstacle for new contributors who want to start with documentation contribution. So, WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests. And we need to create a process to utilize this system properly.
+The fact that we don't have a unified system for change requests and documentation updates makes collaboration difficult; and can be an obstacle for new contributors who want to start with documentation contribution. 
+
+So, **WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests**. And we need to create a process to utilize this system properly.
 
 #### Your project’s scope
 

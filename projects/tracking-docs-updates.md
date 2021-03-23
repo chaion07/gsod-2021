@@ -1,23 +1,16 @@
-Project name: Tracking Doc Suggestions / Updates
+### Project idea: Create a system to track updates and suggestions to the WordPress documentation
 
-Initially proposed by: @kenshino
-
-Description: We do not have a unified tracking system for when a doc needs updates. People do it on Meta Trac (which is really for code changes to WordPress.org), report them on Slack, and sometimes via Twitter. It’s impossible for people to know if a doc is going through updates or is simply outdated. Some projects use Trello for short term purposes. Some projects use GitHub.
-
-We really ought to have a unified tracking system so that we can track these requests and the work to fulfill such requests. And we need to create a process to utilize this system properly.
-
-
-
-### Create a system to track updates and suggestions to the WordPress documentation - WordPress
-
-### About your organization
+### About WordPress
 
 WordPress is a free and open-source content management system (CMS) written in PHP. WordPress is currently used by 40.7% of all the websites, according to [W3Techs reports](https://w3techs.com/technologies/overview/content_management).
 
 WordPress is also a large and active community of contributors spread around the world, and organized by contribution team (including the documentation team).
 
-### About your project
+### About the project
 
+WordPress does not have a unified tracking system for when a documentation needs updates. People do it on [WordPress Meta Trac](https://meta.trac.wordpress.org/) (which is really for code changes to WordPress.org), report them on the [project Slack](https://make.wordpress.org/chat/), and sometimes via Twitter. Currently, it is impossible for people to know if a documentation is going through updates or is simply outdated. Some projects use Trello for short term purposes. Some projects use GitHub.
+
+WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests. And we need to create a process to utilize this system properly.
 
 #### Your project’s problem
 

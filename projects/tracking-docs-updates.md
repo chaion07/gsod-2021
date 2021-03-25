@@ -1,5 +1,4 @@
-### Project idea: Create a system to track updates and suggestions to the WordPress documentation
-
+# Create a system to track updates and suggestions to the WordPress documentation
 ### About WordPress
 
 WordPress is a free and open-source content management system (CMS) written in PHP. WordPress is currently used by 40.7% of all the websites, according to [W3Techs reports](https://w3techs.com/technologies/overview/content_management).

@@ -27,6 +27,7 @@ The technical writer who will work on this project should have an idea of the va
 
 The technical writer will have a mentor with experience on the documentation team who can provide assistance and guidance as needed.
 
+<!---
 ### Project budget
 
 #### General guidelines
@@ -52,6 +53,8 @@ Volunteer stipends  | 500 | 6500.00 | 3 volunteer stipends x 500 each
 Project t-shirts (10 t-shirts) | 150.00 | 6650.00 
 Giant inflatable unicorn (15 foot version) | 99.99 | 6749.99 | We will give the inflatable unicorn to the team that answers the technical writer’s questions the fastest during the project development period
 TOTAL |  | 6749.99 |
+
+--->
 
 #### Additional information
 

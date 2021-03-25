@@ -6,7 +6,7 @@ WordPress is a free and open-source content management system (CMS) written in P
 WordPress is also a large and active community of contributors spread around the world, and organized by contribution team (including the documentation team).
 
 ### About the project
-#### Your project’s problem
+#### The problem
 
 The WordPress documentation is huge and divided into multiple sections. There are user documentations, developer documentations of different projects (themes, plugins, block editor, APIs, etc.).
 
@@ -15,16 +15,17 @@ All these documentations are subject to frequent changes as the projects to whic
 The fact that we don't have a unified system for change requests and documentation updates makes collaboration difficult; and can be an obstacle for new contributors who want to start with documentation contribution. 
 
 So, **WordPress really needs to have a unified tracking system so that we can track these requests and the work to fulfill such requests**. And we need to create a process to utilize this system properly.
+#### Measuring the project’s success
 
-#### Your project’s scope
+The main indicator of success is the effective implementation of a system and process to report documentation that is obsolete, needs to be updated or corrected.
 
-_Tell us about what documentation your organization will create, update, or improve. If some work is deliberately not being done, include that information as well. Include a time estimate, and whether you have already identified organization volunteers and a technical writer to work with your project._
+The second indicator of success is the use by contributors of the system and process implemented.
 
+### Skills required
 
-#### Measuring your project’s success
+The technical writer who will work on this project should have an idea of the various WordPress documentations, how they work, and how the documentation team maintains them.
 
-_How will you know that your new documentation has helped solve your problem? What metrics will you use, and how will you track them?_
-
+The technical writer will have a mentor with experience on the documentation team who can provide assistance and guidance as needed.
 
 ### Project budget
 
